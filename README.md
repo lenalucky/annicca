@@ -8,11 +8,7 @@
 
 Chatbot de IA conversacional criado para apresentar a **Comunidade Aprendentes** e o **Curso de Gerenciamento Emocional** do Prof. Marcelo Oliveira (gerenciamentoemocional.com.br), acolhendo visitantes e conduzindo-os de forma natural até a inscrição.
 
-🔗 **Demo ao vivo:** [aprendentesagent.vercel.app](https://aprendentesagent.vercel.app)
-
-<p align="center">
-  <img src="./screenshots/annicca-desktop.png" alt="Tela inicial da Annicca" width="600" />
-</p>
+🔗 **Demo ao vivo:** [aprendentesagent](https://annicca.vercel.app/)
 
 ---
 
@@ -113,9 +109,6 @@ Este projeto nasceu como estudo prático de ponta a ponta — da prototipagem do
 
 > Adicione aqui prints do chat em ação — desktop e mobile — dentro de uma pasta `screenshots/` no repositório.
 
-| Desktop | Mobile |
-|---|---|
-| ![desktop](./screenshots/annicca-desktop.png) | ![mobile](./screenshots/annicca-mobile.png) |
 
 ---
 
